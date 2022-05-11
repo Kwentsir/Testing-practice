@@ -1,7 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1652265659623" clover="3.2.0">
-  <project timestamp="1652265659623" name="All files">
-    <metrics statements="8" coveredstatements="7" conditionals="4" coveredconditionals="3" methods="2" coveredmethods="2" elements="14" coveredelements="12" complexity="0" loc="8" ncloc="8" packages="1" files="2" classes="2"/>
+<coverage generated="1652267271664" clover="3.2.0">
+  <project timestamp="1652267271664" name="All files">
+    <metrics statements="20" coveredstatements="15" conditionals="9" coveredconditionals="8" methods="3" coveredmethods="3" elements="32" coveredelements="26" complexity="0" loc="20" ncloc="20" packages="1" files="3" classes="3"/>
+    <file name="calculator.js" path="C:\Users\kwent\Desktop\Microverse\Module 2\Testing-practice\calculator.js">
+      <metrics statements="12" coveredstatements="8" conditionals="5" coveredconditionals="5" methods="1" coveredmethods="1"/>
+      <line num="1" count="1" type="stmt"/>
+      <line num="2" count="11" type="cond" truecount="5" falsecount="0"/>
+      <line num="4" count="2" type="stmt"/>
+      <line num="5" count="0" type="stmt"/>
+      <line num="7" count="2" type="stmt"/>
+      <line num="8" count="0" type="stmt"/>
+      <line num="10" count="2" type="stmt"/>
+      <line num="11" count="0" type="stmt"/>
+      <line num="13" count="3" type="stmt"/>
+      <line num="14" count="0" type="stmt"/>
+      <line num="16" count="2" type="stmt"/>
+      <line num="19" count="1" type="stmt"/>
+    </file>
     <file name="reverseString.js" path="C:\Users\kwent\Desktop\Microverse\Module 2\Testing-practice\reverseString.js">
       <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
       <line num="1" count="1" type="stmt"/>
