@@ -1,0 +1,23 @@
+{
+  "name": "testing-practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kwentsir/Testing-practice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kwentsir/Testing-practice/issues"
+  },
+  "homepage": "https://github.com/Kwentsir/Testing-practice#readme",
+  "devDependencies": {
+    "jest": "^28.1.0"
+  }
+}
